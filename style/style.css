@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+header{
+    height: 100px;
+    background-color: #1520a6;
+}
+header > input{
+    display: block;
+    align-items: 
+    align-items:center;
+}
